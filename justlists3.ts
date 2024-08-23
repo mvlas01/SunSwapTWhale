@@ -31,7 +31,7 @@
             "chainId":1,
             "decimals":18,
             "name":"TRON WHALE",
-            "logoURI":"https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
+            "logoURI":"https://static.tronscan.org/production/upload/logo/new/TSmzhC36ap3jCpLJPvEFwCKHVRK2xzJJqE.png"
         },
         {
             "symbol":"ETH",
