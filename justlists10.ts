@@ -1,5 +1,5 @@
 {
-    "name":"TRONWHALE7",
+    "name":"TRONWHALE8",
     "tokens":[
         {
             "symbol":"SUN",
@@ -27,11 +27,11 @@
         },
         {
             "symbol":"TWHALE",
-            "address":"TSmzhC36ap3jCpLJPvEFwCKHVRK2xzJJqE",
+            "address":"TAQynnwZ3utFbHx2AfQRY2a82PY7bubizB",
             "chainId":1,
             "decimals":18,
-            "name":"TRON WHALE",
-            "logoURI":"https://static.tronscan.org/production/upload/logo/new/TSmzhC36ap3jCpLJPvEFwCKHVRK2xzJJqE.png"
+            "name":"Whale Tron",
+            "logoURI":"https://storage.yandexcloud.net/staticfiles/trxsol.png"
         },
         {
             "symbol":"WBTT",
