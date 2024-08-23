@@ -34,14 +34,6 @@
             "logoURI":"https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
         },
         {
-            "symbol":"TWHALE",
-            "address":"TSmzhC36ap3jCpLJPvEFwCKHVRK2xzJJqE",
-            "chainId":1,
-            "decimals":18,
-            "name":"TRON WHALE",
-            "logoURI":"https://static.tronscan.org/production/upload/logo/new/TSmzhC36ap3jCpLJPvEFwCKHVRK2xzJJqE.png?t=1724404672645"
-        },
-        {
             "symbol":"WBTT",
             "address":"TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt",
             "chainId":1,
