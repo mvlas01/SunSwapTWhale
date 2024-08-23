@@ -1,5 +1,5 @@
 {
-    "name":"TRONWHALE2",
+    "name":"TRONWHALE3",
     "tokens":[
         {
             "symbol":"SUN",
@@ -26,7 +26,7 @@
             "logoURI":"https://coin.top/production/logo/TXpw8XeWYeTUd4quDskoUqeQPowRh4jY65.png"
         },
         {
-            "symbol":"ETH",
+            "symbol":"TWHALE",
             "address":"THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF",
             "chainId":1,
             "decimals":18,
