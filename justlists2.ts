@@ -1,5 +1,5 @@
 {
-    "name":"TRONWHALE",
+    "name":"TRONWHALE1",
     "tokens":[
         {
             "symbol":"SUN",
@@ -24,6 +24,14 @@
             "decimals":8,
             "name":"Wrapped BTC",
             "logoURI":"https://coin.top/production/logo/TXpw8XeWYeTUd4quDskoUqeQPowRh4jY65.png"
+        },
+        {
+            "symbol":"TWHALE",
+            "address":"TSmzhC36ap3jCpLJPvEFwCKHVRK2xzJJqE",
+            "chainId":1,
+            "decimals":18,
+            "name":"TRON WHALE",
+            "logoURI":"https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
         },
         {
             "symbol":"ETH",
