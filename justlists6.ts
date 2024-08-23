@@ -1,5 +1,5 @@
 {
-    "name":"TRONWHALE3",
+    "name":"TRONWHALE4",
     "tokens":[
         {
             "symbol":"SUN",
@@ -30,7 +30,7 @@
             "address":"THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF",
             "chainId":1,
             "decimals":18,
-            "name":"Ethereum",
+            "name":"TRON WHALE",
             "logoURI":"https://static.tronscan.org/production/upload/logo/new/TSmzhC36ap3jCpLJPvEFwCKHVRK2xzJJqE.png"
         },
         {
